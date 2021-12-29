@@ -1,0 +1,7 @@
+[package]
+authors = ["Charlie Maddex <charlie@maddex.co>"]
+description = "Discover Log4Shell vulnerability [CVE-2021-45105]"
+name = "log4j"
+version = "0.1.0"
+edition = "2021"
+repository = "https://github.com/name/log4j"
